@@ -1,0 +1,2 @@
+git+https://github.com/pandazxx/homura.git#egg=homura
+git+https://github.com/pandazxx/115wangpan.git#egg=115wangpan
